@@ -1,4 +1,4 @@
-# 🎬 Movies Watchlist App
+# Movies Watchlist App
 
 A modern and responsive Movies App built with **React** and **Vanilla CSS** that interacts with the **OMDb API** to let users search for movies, manage a custom watchlist, and track their watched films.
 
@@ -7,7 +7,7 @@ A modern and responsive Movies App built with **React** and **Vanilla CSS** that
 ![preview](./public/Preview.png)
 
 
-## ✨ Features
+## Features
 * **Live API Search:** Dynamically fetches real-time movie data (titles, posters, and years) from OMDb API.
 * **Dual Lists:** Smoothly manage custom folders for your **Watchlist** and **Watched** movies.
 * **State Persistence:** Integrated with `localStorage` to ensure user movie lists are saved across browser refreshes.
@@ -53,5 +53,5 @@ MOVIES APP
 
 ## 🚀 Live Demo & Preview
 
-🔗 https://
+🔗 https://movies-watchlist-app-pi.vercel.app
 
